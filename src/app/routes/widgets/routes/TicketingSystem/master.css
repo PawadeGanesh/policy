@@ -1,0 +1,59 @@
+.small-icon-master{
+    font-size:20px;
+}
+.icon-width-edit{
+    min-width:33px;
+    cursor:pointer;
+}
+.audit-table th,.audit-table td{
+   padding:20px;
+   text-align:center;
+}
+.add-data-fields{
+    width:16%;
+    position: absolute;
+    right:0;
+    top:21px;
+    
+}
+.audit-master-box{
+    background:#fff;
+    border-radius:.375rem;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+    padding: 15px;
+    position:relative;
+    box-sizing:border-box;
+}
+
+.disabledtextbox{
+    background-color: lightgray
+}
+
+.step1{
+    background-color: yellow
+}
+
+.ReceiverName{
+    font-size: 15px;
+    color: darkorange;
+    font-weight: bold;
+}
+
+
+.SenderName{
+    font-size: 15px;
+    color: #30ad35;
+    font-weight: bold;
+}
+
+
+
+.scrollBar{
+    margin:4px, 4px;
+                padding:4px;
+                width: 100%;
+                height: 200px;
+                overflow-x: hidden;
+                overflow-y: auto;
+                text-align:justify;
+}

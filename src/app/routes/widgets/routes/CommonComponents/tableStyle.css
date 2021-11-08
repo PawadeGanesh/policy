@@ -1,0 +1,42 @@
+/* .MuiTableCell-head{
+background-color: hsl(231, 48%, 48%);
+color:white;
+}
+.MuiTableSortLabel-root.MuiTableSortLabel-active.MuiTableSortLabel-root.MuiTableSortLabel-active .MuiTableSortLabel-icon{
+    color:white;
+}
+.MuiTableSortLabel-root.MuiTableSortLabel-active{
+    color:white;
+}
+.MuiTableSortLabel-root:hover{
+    color:white;
+}
+
+tbody tr:nth-child(even)
+{
+  background:rgba(0,0,0,.05);
+} */
+
+tbody tr:nth-child(even) {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+span.MuiButtonBase-root.MuiTableSortLabel-root.MuiTableSortLabel-active {
+  color: white;
+}
+
+th path {
+  color: white;
+}
+
+th.MuiTableCell-root.MuiTableCell-head {
+  color: white;
+}
+
+span.MuiButtonBase-root.MuiTableSortLabel-root {
+  color: white;
+}
+
+thead {
+  background-color: #3f51b5;
+}

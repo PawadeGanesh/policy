@@ -1,0 +1,35 @@
+
+.ModalTitle{
+    font-size: 40px
+}
+
+.ModalDoNoTtext{
+    font-size: 20px
+}
+
+.ModalDotext{
+    font-size: 20px
+}
+
+.MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+/* padding-bottom: 14px; */
+}
+
+
+.ThumdsDown{
+    transform: scale(1.8);
+}
+
+
+.circularTick{
+    transform: scale(1);
+}
+
+.ThumdsUp{
+    transform: scale(1.8);
+}
+

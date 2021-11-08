@@ -1,0 +1,6 @@
+.timeline .MuiAlert-standardWarning {
+  width: 50%;
+  margin-top: 5%;
+  background-color: #3f51b5;
+  color: white;
+}

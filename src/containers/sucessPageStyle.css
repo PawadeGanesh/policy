@@ -1,0 +1,20 @@
+.error-code{
+    color: #3c7b3c;
+    font-size: 65px;
+    line-height: 1;
+    font-weight: 600;
+    text-shadow: 10px 6px 8px #b7d8b9;
+    text-align: center
+}
+
+.Loading{
+    padding-left: 34%
+}
+
+.resendOTP{
+    padding-left: 20%
+}
+
+.submitbutton{
+    padding-left: 33%
+}

@@ -1,0 +1,79 @@
+.audit-engine {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  background: #3f51b5;
+  color: #fff;
+}
+.modal-wrapper {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+.audit-master-box{
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+  margin-bottom: 1.875rem;
+  background-color: #fff;
+  border-radius: .375rem;
+  position: relative;
+  padding:15px;
+}
+
+.app-wrapper{
+  padding: 30px;
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.modal-box {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 45%;
+  overflow-y: auto;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  padding: 10px;
+}
+.modal-close {
+  float: right;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 3px;
+  background: #3f51b5;
+}
+.show-audit-details {
+  margin: 20px;
+  padding: 9px 20px;
+  background: #3f51b5;
+  color: white;
+  font-weight: 700;
+}
+.notallowed {
+  padding: 2px;
+  pointer-events: none;
+  opacity: 0.6;
+  background: #3f51b5;
+}
+.allowed {
+  padding: 2px;
+  background: #3f51b5;
+}
+.audit-table,
+.audit-table th,
+.audit-table td {
+  padding: 20px;
+}

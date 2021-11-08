@@ -1,0 +1,1 @@
+export const data = ['Diabetes', 'Heart Aliments','Hypertension', 'Thyroid', 'Asthma']

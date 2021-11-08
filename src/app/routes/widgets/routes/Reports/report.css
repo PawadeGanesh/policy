@@ -1,0 +1,34 @@
+.small-icon-master{
+    font-size:20px;
+}
+.icon-width-edit{
+    min-width:33px;
+    cursor:pointer;
+}
+.audit-table th,.audit-table td{
+   padding:20px;
+   text-align:center;
+}
+.add-data-fields{
+    width:16%;
+    position: absolute;
+    right:0;
+    top:21px;
+    
+}
+.audit-master-box{
+    background:#fff;
+    border-radius:.375rem;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+    position:relative;
+    box-sizing:border-box;
+    padding: 15px;
+}
+
+.disabledtextbox{
+    background-color: lightgray
+}
+
+.app-wrapper{
+    padding: 1px;
+}

@@ -1,0 +1,15 @@
+.autocomplete {
+  border: 2px solid grey;
+  border-radius: 6px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  padding: 15px 15px 15px 20px;
+}
+
+.product-list {
+  border: 1px solid black;
+}
+
+.cardBox {
+  padding: 0px 50px 50px 50px;
+}
